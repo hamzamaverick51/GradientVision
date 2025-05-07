@@ -138,8 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Got questions? Feature requests? Just want to chat about gradient fields?
 
-[![Twitter](https://img.shields.io/badge/Twitter-@GradientVision-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/)
-[![Email](https://img.shields.io/badge/Email-hello@gradientvision.example-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@gradientvision.example)
+[![LinkedIn](https://www.linkedin.com/in/hamza-raheel-829001319/)
+[![Email](https://img.shields.io/badge/Email-hello@gradientvision.example-D14836?style=flat&logo=gmail&logoColor=white)](hamzaprofessionalwork@gmail.com)
 
 Happy function exploring! 🎉 May your gradient always point in the right direction! ↗️
